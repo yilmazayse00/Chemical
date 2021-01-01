@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "292278453222",
+    "project_id": "chemical-3ad82",
+    "storage_bucket": "chemical-3ad82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292278453222:android:0ad93548a5231358ba8c27",
+        "android_client_info": {
+          "package_name": "com.ao.chemical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292278453222-rji65r47g1f9epo154ija1k7ll0ftk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZMAqfKHvmBRh6UgRvsSMwzTiVtmT94M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292278453222-rji65r47g1f9epo154ija1k7ll0ftk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292278453222:android:00d6323df6a388d1ba8c27",
+        "android_client_info": {
+          "package_name": "com.ao.kimyadersnotlari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292278453222-rji65r47g1f9epo154ija1k7ll0ftk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZMAqfKHvmBRh6UgRvsSMwzTiVtmT94M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292278453222-rji65r47g1f9epo154ija1k7ll0ftk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
